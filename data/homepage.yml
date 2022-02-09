@@ -1,0 +1,298 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/logo2.png"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "FEATURED WORKS"
+  images:
+    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-2.jpg"
+    - "images/slider/slider-img-3.jpg"
+    - "images/slider/slider-img-4.jpg"
+    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-2.jpg"
+    - "images/slider/slider-img-3.jpg"
+    - "images/slider/slider-img-4.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/logo2.png"
+  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "<span>Categorias</span>"
+  bg_image : "images/Location.png"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "<span>MENÚ</span>"
+    #description: "Lorem"
+  subtitle : "Frappes"
+    #description: "Lorem"
+  pricing_item:
+  - description: "Los Frappes pueden ser a base de leche deslactosada, leche de soya, leche de coco, leche de almendras con un costo adicional de $10. Los Frappes a base de agua y leche entera no tienen costo adicional."
+  - title: "Caramell"
+    #description: ""
+    price : "$ 80.00"
+
+  - title: "Mocha"
+    #description: ""
+    price : "$ 80.00"
+
+  - title: "Cappuccino/Vainilla"
+    #description: ""
+    price : "$ 80.00"
+
+  - title: "Frappuccino"
+    #description: ""
+    price : "$ 80.00"
+
+  - title: "Oreo"
+    #description: ""
+    price : "$ 80.00"
+
+  - title: "Mocha/Cappuccino"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Cajeta"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Choco m&m's"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Taro"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "T-Chai"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Avellana"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Choco Banana"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Choco Fresa"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Horchata Nuez"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Vainilla"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Chocolate Blanco"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "CottonCandy"
+    #description: ""
+    price: "$ 80.00"
+
+pricing2:
+  enable : true
+  subtitle: "smoothies"
+  pricing_item:
+  - description: "Los Smoothies pueden ser a base de leche deslactosada, leche de soya, leche de coco, leche de almendras con un costo adicional de $10. A base de agua y leche entera sin costo adicional."
+  - title: "Lychee"
+    #description: ""
+    price: "$ 50.00"
+  
+  - title: "Mango"
+    #description: ""
+    price: "$ 70.00"
+
+  - title: "Mango/Fresa"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Mango/Chamoy"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Piña Colada"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Frutos Rojos"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Fresa"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Banana Fresa"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Coco"
+    #description: ""
+    price: "$ 80.00"
+
+  - title: "Coco Fresón"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Pepi-Limón"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Fresa/Nuez"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Papaya"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Melón"
+    #description: ""
+    price: "$ 75.00"
+
+  - title: "Plátano"
+    #description: ""
+    price: "$ 85.00"
+
+pricing3:
+  enable: true
+  subtitle: "Crepas Dulces"
+  pricing_item:
+  - title: "Nutella"
+    #description: ""
+    price: "$ 50.00"
+  
+  - title: "Cajeta"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Lechera"
+    #description: ""
+    price: "$ 60.00"
+
+  - title: "Mermelada de Fresa"
+    #description: ""
+    price: "$ 60.00"
+
+  - title: "Mermelada de Blueberry"
+    #description: ""
+    price: "$ 60.00"
+
+  - title: "Mermelada de Piña"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Mermelada de Zarzamora"
+    #description: ""
+    price: "$ 60.00"
+
+  - title: "Philadelphia"
+    #description: ""
+    price: "$ 65.00"
+  
+  - title: "Fresa/Plátano"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Nutella/Philadelphia"
+    #description: ""
+    price: "$ 75.00"
+
+pricing4:
+  enable: true
+  subtitle: "Pasteles"
+  pricing_item:
+  - title: "Browniano D'Luxe"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Banana D'Luxe"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Choco D'Luxe"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Strawberry D'Luxe"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Carrot Cake"
+    #description: ""
+    price: "$ 85.00"
+
+pricing5:
+  enable: true
+  subtitle: "Waffle"
+  pricing_item:
+  - title: "Waffle de Fresa"
+    #description: ""
+    price: "$ 65.00"
+  
+  - title: "Waffle de Fresa/Plátano"
+    #description: ""
+    price: "$ 60.00"
+
+  - title: "Waffle de Banana"
+    #description: ""
+    price: "$ 60.00"
+
+pricing6:
+  enable: true
+  subtitle: "Otras Bebidas"
+  pricing_item:
+  - title: "Café Chico"
+    #description: ""
+    price: "$ 25.00"
+
+  - title: "Café Grande"
+    #description: ""
+    price: "$ 30.00"
+
+  - title: "Botella de Medio Litro"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "Botella de 1 Litro"
+    #description: ""
+    price: "$ 20.00"
+
+################### Subscription ################
+subscription:
+  enable : true
+  bg_image : "images/subscribe-bg.jpg"
+  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration 
+  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Let's <span> Contact Us </span>"
+  subtitle: "SIGN UP FOR EMAIL ALERTS"
+  form_action : "#" #contact form works with formspree.io
