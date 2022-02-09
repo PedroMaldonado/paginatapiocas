@@ -86,14 +86,24 @@ URL = "price6"
 weight = 9
 
 [[menu.main]]
+name = "Price7"
+URL = "price7"
+weight = 10
+
+[[menu.main]]
+name = "Price8"
+URL = "price8"
+weight = 11
+
+[[menu.main]]
 name = "News"
 URL = "subscribe"
-weight = 10
+weight = 12
 
 [[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 11
+weight = 13
 
 
 #################### default parameters ################################

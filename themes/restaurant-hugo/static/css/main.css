@@ -811,7 +811,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 /*--
-    price5 Start
+    price6 Start
 --*/
 #price6 {
   padding: 70px 0px;
@@ -883,6 +883,160 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #price6 .block .pricing-list .btn:hover {
+  background: #ff530a;
+  color: #fff;
+}
+
+/*--
+    price7 Start
+--*/
+#price7 {
+  padding: 70px 0px;
+}
+
+#price7 .block>p {
+  color: #9D9D9D;
+  font-size: 16px;
+  line-height: 26px;
+  padding: 40px 133px 0;
+  text-align: center;
+}
+
+#price7 .block .pricing-list {
+  padding-top: 85px;
+}
+
+#price7 .block .pricing-list ul {
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#price7 .block .pricing-list ul li {
+  padding: 21px 0px;
+}
+
+#price7 .block .pricing-list ul li .item .item-title {
+  position: relative;
+}
+
+#price7 .block .pricing-list ul li .item .item-title h2 {
+  display: inline-block;
+  position: relative;
+  z-index: 99;
+  background: #fff;
+}
+
+#price7 .block .pricing-list ul li .item .item-title .border-bottom {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 1px;
+  border: 1px dotted #C9C9C9;
+  margin-top: 20px;
+}
+
+#price7 .block .pricing-list ul li .item .item-title span {
+  float: right;
+  color: #938463;
+}
+
+#price7 .block .pricing-list ul li .item p {
+  padding: 12px 0 0px;
+  color: #949494;
+}
+
+#price7 .block .pricing-list .btn {
+  padding: 28px 105px;
+  border-radius: 0px;
+  background: none;
+  color: #FF4F02;
+  border: 1px solid #FF4F02;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+}
+
+#price7 .block .pricing-list .btn:hover {
+  background: #ff530a;
+  color: #fff;
+}
+
+/*--
+    price8 Start
+--*/
+#price8 {
+  padding: 70px 0px;
+}
+
+#price8 .block>p {
+  color: #9D9D9D;
+  font-size: 16px;
+  line-height: 26px;
+  padding: 40px 133px 0;
+  text-align: center;
+}
+
+#price8 .block .pricing-list {
+  padding-top: 85px;
+}
+
+#price8 .block .pricing-list ul {
+  padding: 0 0 30px;
+  margin: 0;
+}
+
+#price8 .block .pricing-list ul li {
+  padding: 21px 0px;
+}
+
+#price8 .block .pricing-list ul li .item .item-title {
+  position: relative;
+}
+
+#price8 .block .pricing-list ul li .item .item-title h2 {
+  display: inline-block;
+  position: relative;
+  z-index: 99;
+  background: #fff;
+}
+
+#price8 .block .pricing-list ul li .item .item-title .border-bottom {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 1px;
+  border: 1px dotted #C9C9C9;
+  margin-top: 20px;
+}
+
+#price8 .block .pricing-list ul li .item .item-title span {
+  float: right;
+  color: #938463;
+}
+
+#price8 .block .pricing-list ul li .item p {
+  padding: 12px 0 0px;
+  color: #949494;
+}
+
+#price8 .block .pricing-list .btn {
+  padding: 28px 105px;
+  border-radius: 0px;
+  background: none;
+  color: #FF4F02;
+  border: 1px solid #FF4F02;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 600;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+}
+
+#price8 .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
