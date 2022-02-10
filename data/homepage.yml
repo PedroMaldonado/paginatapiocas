@@ -281,43 +281,123 @@ pricing6:
 
 pricing7:
   enable: true
-  subtitle: "Otras Bebidas"
+  subtitle: "Extras para Frappes & Smoothies"
   pricing_item:
-  - title: "Café Chico"
+  - title: "Nuez"
     #description: ""
-    price: "$ 25.00"
+    price: "$ 10.00"
 
-  - title: "Café Grande"
+  - title: "Perlas explosivas frutas de la pasión"
     #description: ""
-    price: "$ 30.00"
+    price: "$ 10.00"
 
-  - title: "Botella de Medio Litro"
+  - title: "Perlas explosivas mango"
     #description: ""
-    price: "$ 15.00"
+    price: "$ 10.00"
 
-  - title: "Botella de 1 Litro"
+  - title: "Perlas explosivas fresa"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Perlas explosivas blueberry"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Perlas explosivas chocolate"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Perlas explosivas de rainbow"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Jelly de fresa"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Jelly de café"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Jelly de mango"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "x1 Extra Tapioca"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "x2 Extra Tapioca"
     #description: ""
     price: "$ 20.00"
 
 pricing8:
   enable: true
-  subtitle: "Otras Bebidas"
+  subtitle: "Extras para Crepas"
   pricing_item:
-  - title: "Café Chico"
+  - title: "Fresa Natural"
     #description: ""
-    price: "$ 25.00"
+    price: "$ 10.00"
 
-  - title: "Café Grande"
+  - title: "Banana"
     #description: ""
-    price: "$ 30.00"
+    price: "$ 10.00"
 
-  - title: "Botella de Medio Litro"
+  - title: "Mermelada de Fresa"
     #description: ""
-    price: "$ 15.00"
+    price: "$ 10.00"
 
-  - title: "Botella de 1 Litro"
+  - title: "Mermelada de Blueberry"
     #description: ""
-    price: "$ 20.00"
+    price: "$ 10.00"
+
+  - title: "Mermelada de Piña"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Mermelada de Zarzamora"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Chocolate"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Nuez"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Crema Chantilly"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Nieve"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Lechera"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Nutella"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Cajeta"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Crema de Cacahuate"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Miguelito"
+    #description: ""
+    price: "$ 10.00"
+
+  - title: "Philadelphia"
+    #description: ""
+    price: "$ 10.00"
 
 ################### Subscription ################
 subscription:
