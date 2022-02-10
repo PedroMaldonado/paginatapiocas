@@ -24,6 +24,7 @@ body {
   font-family: myfont;
   font-size: 14px;
   font-weight: 400;
+  background-color: #f6efd2;
 }
 
 a:focus {
@@ -127,7 +128,7 @@ a, a:active, a:focus, a:active {
     custom heading Start
 --*/
 .title {
-  color: #2E2E2E;
+  color: #000;
   text-transform: uppercase;
   padding: 30px 0px;
 }
@@ -284,7 +285,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 --*/
 #about-us {
   padding: 100px 0px;
-  background: #F6F6F6;
+  background: #222222;
 }
 
 #about-us .block {
@@ -292,10 +293,14 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #about-us .block p {
-  color: #959595;
+  color: #fff;
   font-size: 16px;
   line-height: 26px;
   padding: 40px 0px;
+}
+
+#about-heading {
+  color: #e1ca5c;
 }
 
 /*--
@@ -461,7 +466,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price .block .pricing-list ul li .item .item-title .border-bottom {
@@ -469,7 +474,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -480,7 +485,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price .block .pricing-list .btn {
@@ -538,7 +543,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price2 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -546,7 +551,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -557,7 +562,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price2 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price2 .block .pricing-list .btn {
@@ -615,7 +620,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price3 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -623,7 +628,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -634,7 +639,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price3 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price3 .block .pricing-list .btn {
@@ -692,7 +697,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price4 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -700,7 +705,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -711,7 +716,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price4 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price4 .block .pricing-list .btn {
@@ -769,7 +774,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price5 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -777,7 +782,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -788,7 +793,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price5 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price5 .block .pricing-list .btn {
@@ -846,7 +851,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price6 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -854,7 +859,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -865,7 +870,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price6 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price6 .block .pricing-list .btn {
@@ -923,7 +928,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price7 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -931,7 +936,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -942,7 +947,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price7 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price7 .block .pricing-list .btn {
@@ -1000,7 +1005,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #fff;
+  background: #f6efd2;
 }
 
 #price8 .block .pricing-list ul li .item .item-title .border-bottom {
@@ -1008,7 +1013,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   top: 0;
   width: 100%;
   height: 1px;
-  border: 1px dotted #C9C9C9;
+  border: .5px dotted #aaa8a8;
   margin-top: 20px;
 }
 
@@ -1019,7 +1024,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price8 .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
-  color: #949494;
+  color: #786b4e;
 }
 
 #price8 .block .pricing-list .btn {

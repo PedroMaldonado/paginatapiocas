@@ -21,9 +21,9 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/logo2.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  #image : "images/logo.png"
+  title : "¿Qué son las Tapiocas?"
+  description : "Las tapiocas son pequeñas bolitas de color cafe oscuro, que provienen de una raíz llamada yuca, su consistencia y sabor le dan a tu bebida un toque divertido."
   
 ################# Blog ######################
 blog:
