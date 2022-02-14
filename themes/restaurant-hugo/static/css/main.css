@@ -162,6 +162,18 @@ a, a:active, a:focus, a:active {
 /*--
     header-img start Start
 --*/
+#hero-area{
+  background-size: cover;
+  background-color: #000;
+}
+
+#logo-hero{
+  background-size: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .overlay {
   position: relative;
 }
@@ -175,7 +187,7 @@ a, a:active, a:focus, a:active {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url("../images/overlay-pattern.png") #000000;
+  /*background: url("../images/overlay-pattern.png") #000000;*/
   opacity: 0.3;
 }
 
@@ -1360,6 +1372,13 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 /* slider */
+#gallery-responsive{
+  float: left;
+  width:  250px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 15%;
+}
 
 #slider {
   padding-bottom: 50px;

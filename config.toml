@@ -41,59 +41,24 @@ URL = "js/main.js"
 ############################## navigation ###############################
 
 [[menu.main]]
-name = "Home"
+name = "Inicio"
 URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
+name = "About us"
 URL = "about-us"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "Categorías"
 URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Price"
+name = "Menú"
 URL = "price"
 weight = 4
-
-[[menu.main]]
-name = "Price2"
-URL = "price2"
-weight = 5
-
-[[menu.main]]
-name = "Price3"
-URL = "price3"
-weight = 6
-
-[[menu.main]]
-name = "Price4"
-URL = "price4"
-weight = 7
-
-[[menu.main]]
-name = "Price5"
-URL = "price5"
-weight = 8
-
-[[menu.main]]
-name = "Price6"
-URL = "price6"
-weight = 9
-
-[[menu.main]]
-name = "Price7"
-URL = "price7"
-weight = 10
-
-[[menu.main]]
-name = "Price8"
-URL = "price8"
-weight = 11
 
 [[menu.main]]
 name = "News"
@@ -101,7 +66,7 @@ URL = "subscribe"
 weight = 12
 
 [[menu.main]]
-name = "Contact Us"
+name = "Información"
 URL = "contact-us"
 weight = 13
 
