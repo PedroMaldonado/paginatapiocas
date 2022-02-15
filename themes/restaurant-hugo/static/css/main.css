@@ -358,19 +358,18 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   position: relative;
   flex-basis: 50%;
   text-align: center;
-  padding: 20px;
+  padding: 8%;
 }
 
 .post-content::before {
   content: "";
-  position: absolute;
   left: 0;
   bottom: 0;
   right: 0;
   top: 50%;
   width: 30px;
   height: 30px;
-  margin-top: -15px;
+  margin-top: 0px;
   background: #fff;
   transform: rotate(45deg);
   margin-left: -15px;
@@ -443,13 +442,13 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 /*--
-    price Start
+    Frappes Start
 --*/
-#price {
+#Frappes {
   padding: 70px 0px;
 }
 
-#price .block>p {
+#Frappes .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -457,31 +456,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price .block .pricing-list {
+#Frappes .block .pricing-list {
   padding-top: 85px;
 }
 
-#price .block .pricing-list ul {
+#Frappes .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price .block .pricing-list ul li {
+#Frappes .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price .block .pricing-list ul li .item .item-title {
+#Frappes .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price .block .pricing-list ul li .item .item-title h2 {
+#Frappes .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price .block .pricing-list ul li .item .item-title .border-bottom {
+#Frappes .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -490,17 +489,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price .block .pricing-list ul li .item .item-title span {
+#Frappes .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price .block .pricing-list ul li .item p {
+#Frappes .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price .block .pricing-list .btn {
+#Frappes .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -514,19 +513,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price .block .pricing-list .btn:hover {
+#Frappes .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
 
 /*--
-    price2 Start
+    Smoothies Start
 --*/
-#price2 {
+#Smoothies {
   padding: 70px 0px;
 }
 
-#price2 .block>p {
+#Smoothies .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -534,31 +533,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price2 .block .pricing-list {
+#Smoothies .block .pricing-list {
   padding-top: 85px;
 }
 
-#price2 .block .pricing-list ul {
+#Smoothies .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price2 .block .pricing-list ul li {
+#Smoothies .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price2 .block .pricing-list ul li .item .item-title {
+#Smoothies .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price2 .block .pricing-list ul li .item .item-title h2 {
+#Smoothies .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price2 .block .pricing-list ul li .item .item-title .border-bottom {
+#Smoothies .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -567,17 +566,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price2 .block .pricing-list ul li .item .item-title span {
+#Smoothies .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price2 .block .pricing-list ul li .item p {
+#Smoothies .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price2 .block .pricing-list .btn {
+#Smoothies .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -591,19 +590,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price2 .block .pricing-list .btn:hover {
+#Smoothies .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
 
 /*--
-    price3 Start
+    Crepas Start
 --*/
-#price3 {
+#Crepas {
   padding: 70px 0px;
 }
 
-#price3 .block>p {
+#Crepas .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -611,31 +610,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price3 .block .pricing-list {
+#Crepas .block .pricing-list {
   padding-top: 85px;
 }
 
-#price3 .block .pricing-list ul {
+#Crepas .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price3 .block .pricing-list ul li {
+#Crepas .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price3 .block .pricing-list ul li .item .item-title {
+#Crepas .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price3 .block .pricing-list ul li .item .item-title h2 {
+#Crepas .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price3 .block .pricing-list ul li .item .item-title .border-bottom {
+#Crepas .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -644,17 +643,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price3 .block .pricing-list ul li .item .item-title span {
+#Crepas .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price3 .block .pricing-list ul li .item p {
+#Crepas .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price3 .block .pricing-list .btn {
+#Crepas .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -668,19 +667,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price3 .block .pricing-list .btn:hover {
+#Crepas .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
 
 /*--
-    price4 Start
+    Pasteles Start
 --*/
-#price4 {
+#Pasteles {
   padding: 70px 0px;
 }
 
-#price4 .block>p {
+#Pasteles .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -688,31 +687,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price4 .block .pricing-list {
+#Pasteles .block .pricing-list {
   padding-top: 85px;
 }
 
-#price4 .block .pricing-list ul {
+#Pasteles .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price4 .block .pricing-list ul li {
+#Pasteles .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price4 .block .pricing-list ul li .item .item-title {
+#Pasteles .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price4 .block .pricing-list ul li .item .item-title h2 {
+#Pasteles .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price4 .block .pricing-list ul li .item .item-title .border-bottom {
+#Pasteles .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -721,17 +720,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price4 .block .pricing-list ul li .item .item-title span {
+#Pasteles .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price4 .block .pricing-list ul li .item p {
+#Pasteles .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price4 .block .pricing-list .btn {
+#Pasteles .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -745,19 +744,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price4 .block .pricing-list .btn:hover {
+#Pasteles .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
 
 /*--
-    price5 Start
+    Waffles Start
 --*/
-#price5 {
+#Waffles {
   padding: 70px 0px;
 }
 
-#price5 .block>p {
+#Waffles .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -765,31 +764,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price5 .block .pricing-list {
+#Waffles .block .pricing-list {
   padding-top: 85px;
 }
 
-#price5 .block .pricing-list ul {
+#Waffles .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price5 .block .pricing-list ul li {
+#Waffles .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price5 .block .pricing-list ul li .item .item-title {
+#Waffles .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price5 .block .pricing-list ul li .item .item-title h2 {
+#Waffles .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price5 .block .pricing-list ul li .item .item-title .border-bottom {
+#Waffles .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -798,17 +797,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price5 .block .pricing-list ul li .item .item-title span {
+#Waffles .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price5 .block .pricing-list ul li .item p {
+#Waffles .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price5 .block .pricing-list .btn {
+#Waffles .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -822,19 +821,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price5 .block .pricing-list .btn:hover {
+#Waffles .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
 
 /*--
-    price6 Start
+    Otras-Bebidas Start
 --*/
-#price6 {
+#Otras-Bebidas {
   padding: 70px 0px;
 }
 
-#price6 .block>p {
+#Otras-Bebidas .block>p {
   color: #9D9D9D;
   font-size: 16px;
   line-height: 26px;
@@ -842,31 +841,31 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
 }
 
-#price6 .block .pricing-list {
+#Otras-Bebidas .block .pricing-list {
   padding-top: 85px;
 }
 
-#price6 .block .pricing-list ul {
+#Otras-Bebidas .block .pricing-list ul {
   padding: 0 0 30px;
   margin: 0;
 }
 
-#price6 .block .pricing-list ul li {
+#Otras-Bebidas .block .pricing-list ul li {
   padding: 21px 0px;
 }
 
-#price6 .block .pricing-list ul li .item .item-title {
+#Otras-Bebidas .block .pricing-list ul li .item .item-title {
   position: relative;
 }
 
-#price6 .block .pricing-list ul li .item .item-title h2 {
+#Otras-Bebidas .block .pricing-list ul li .item .item-title h2 {
   display: inline-block;
   position: relative;
   z-index: 99;
   background: #f6efd2;
 }
 
-#price6 .block .pricing-list ul li .item .item-title .border-bottom {
+#Otras-Bebidas .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
   top: 0;
   width: 100%;
@@ -875,17 +874,17 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 20px;
 }
 
-#price6 .block .pricing-list ul li .item .item-title span {
+#Otras-Bebidas .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
 }
 
-#price6 .block .pricing-list ul li .item p {
+#Otras-Bebidas .block .pricing-list ul li .item p {
   padding: 12px 0 0px;
   color: #786b4e;
 }
 
-#price6 .block .pricing-list .btn {
+#Otras-Bebidas .block .pricing-list .btn {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
@@ -899,7 +898,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price6 .block .pricing-list .btn:hover {
+#Otras-Bebidas .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }
@@ -1318,7 +1317,6 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .social-media-link h3 {
   font-size: 20px;
   padding-bottom: 15px;
-  padding-top: 30px;
 }
 
 #footer .block .social-media-link h3 span {

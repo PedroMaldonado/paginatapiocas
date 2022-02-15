@@ -20,10 +20,10 @@ $(document).ready(function () {
         speed: 300,
         slidesToShow: 4,
         slidesToScroll: 4,
-        arrows: true,
+        arrows: false,
         prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'fa fa-angle-left\'></i></button>',
         nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'fa fa-angle-right\'></i></button>',
-        autoplay: true,
+	autoplay: true,
         responsive: [{
                 breakpoint: 1024,
                 settings: {

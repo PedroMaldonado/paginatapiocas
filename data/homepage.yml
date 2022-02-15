@@ -7,7 +7,6 @@ hero_area:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "FEATURED WORKS"
   images:
     - "images/slider/1.png"
     - "images/slider/2.png"
@@ -413,7 +412,7 @@ subscription:
 
 ################ Contact #######################
 contact:
-  enable : true
+  enable : false
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   form_action : "#" #contact form works with formspree.io
