@@ -44,43 +44,59 @@ pricing:
   - description: "Los Frappes pueden ser a base de leche deslactosada, leche de soya, leche de coco, leche de almendras con un costo adicional de $10. Los Frappes a base de agua y leche entera no tienen costo adicional."
   - title: "Caramell"
     #description: ""
-    price : "$ 80.00"
+    price : "$ 85.00"
 
   - title: "Mocha"
     #description: ""
-    price : "$ 80.00"
+    price : "$ 85.00"
 
   - title: "Cappuccino/Vainilla"
     #description: ""
-    price : "$ 80.00"
+    price : "$ 85.00"
 
   - title: "Frappuccino"
     #description: ""
-    price : "$ 80.00"
+    price : "$ 85.00"
 
   - title: "Oreo"
     #description: ""
-    price : "$ 80.00"
+    price : "$ 85.00"
 
   - title: "Mocha/Cappuccino"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Cajeta"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Choco m&m's"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
+
+  - title: "Pistache"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Choco Avellana"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Malteada de Oreo"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Caramell Coffee"
+    #description: ""
+    price: "$ 85.00"
 
   - title: "Taro"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "T-Chai"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Avellana"
     #description: ""
@@ -88,31 +104,47 @@ pricing:
 
   - title: "Choco Banana"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Choco Fresa"
     #description: ""
-    price: "$ 85.00"
+    price: "$ 90.00"
 
   - title: "Horchata Nuez"
     #description: ""
-    price: "$ 75.00"
+    price: "$ 80.00"
 
   - title: "Vainilla"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Chocolate Blanco"
     #description: ""
-    price: "$ 75.00"
+    price: "$ 80.00"
 
   - title: "CottonCandy"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
+
+  - title: "CottonCandy Strawberry"
+    #description: ""
+    price: "$ 85.00"
   
   - title: "Mazapan"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
+
+  - title: "Mocha/Oreo Crunch"
+    #description: ""
+    price: "$ 90.00"
+
+  - title: "Zarza Cremosa"
+    #description: ""
+    price: "$ 85.00"
+
+  - title: "Matcha"
+    #description: ""
+    price: "$ 85.00"
 
 pricing2:
   enable : true
@@ -125,19 +157,19 @@ pricing2:
   
   - title: "Mango"
     #description: ""
-    price: "$ 70.00"
+    price: "$ 75.00"
 
   - title: "Mango/Fresa"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Mango/Chamoy"
     #description: ""
-    price: "$ 75.00"
+    price: "$ 80.00"
 
   - title: "Piña"
     #description: ""
-    price: "$ 70.00"
+    price: "$ 75.00"
 
   - title: "Piña Colada"
     #description: ""
@@ -153,35 +185,35 @@ pricing2:
 
   - title: "Banana Fresa"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Coco"
     #description: ""
-    price: "$ 80.00"
+    price: "$ 85.00"
 
   - title: "Coco Fresón"
     #description: ""
-    price: "$ 90.00"
+    price: "$ 95.00"
 
   - title: "Pepi-Limón"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 75.00"
 
   - title: "Fresa/Nuez"
     #description: ""
-    price: "$ 85.00"
+    price: "$ 90.00"
 
   - title: "Papaya"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 75.00"
 
   - title: "Melón"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 75.00"
 
   - title: "Plátano"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 75.00"
 
 pricing3:
   enable: true
@@ -189,33 +221,17 @@ pricing3:
   pricing_item:
   - title: "Nutella"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 70.00"
+
+  - title: "Philadelphia"
+    #description: ""
+    price: "$ 70.00"
   
   - title: "Cajeta"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 70.00"
 
   - title: "Lechera"
-    #description: ""
-    price: "$ 60.00"
-
-  - title: "Mermelada de Fresa"
-    #description: ""
-    price: "$ 60.00"
-
-  - title: "Mermelada de Blueberry"
-    #description: ""
-    price: "$ 60.00"
-
-  - title: "Mermelada de Piña"
-    #description: ""
-    price: "$ 60.00"
-
-  - title: "Mermelada de Zarzamora"
-    #description: ""
-    price: "$ 60.00"
-
-  - title: "Philadelphia"
     #description: ""
     price: "$ 65.00"
   
@@ -223,9 +239,29 @@ pricing3:
     #description: ""
     price: "$ 65.00"
 
-  - title: "Nutella/Philadelphia"
+  - title: "Mermelada de Fresa"
     #description: ""
-    price: "$ 75.00"
+    price: "$ 65.00"
+
+  - title: "Mermelada de Piña"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Mermelada de Frambuesa"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Mermelada de Blueberry"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Mermelada de Zarzamora"
+    #description: ""
+    price: "$ 65.00"
+
+  - title: "Mermelada de Cacahuate"
+    #description: ""
+    price: "$ 65.00"
 
 pricing4:
   enable: true
@@ -235,19 +271,15 @@ pricing4:
     #description: ""
     price: "$ 85.00"
 
-  - title: "Banana D'Luxe"
+  - title: "Tapiocookie"
     #description: ""
     price: "$ 85.00"
 
-  - title: "Choco D'Luxe"
+  - title: "Chescake"
     #description: ""
     price: "$ 85.00"
 
-  - title: "Strawberry D'Luxe"
-    #description: ""
-    price: "$ 85.00"
-
-  - title: "Carrot Cake"
+  - title: "Pay de Cajeta y Nuez"
     #description: ""
     price: "$ 85.00"
 
@@ -257,15 +289,15 @@ pricing5:
   pricing_item:
   - title: "Waffle de Fresa"
     #description: ""
-    price: "$ 60.00"
+    price: "$ 65.00"
 
   - title: "Waffle de Banana"
     #description: ""
-    price: "$ 60.00"
+    price: "$ 65.00"
   
   - title: "Waffle de Fresa/Plátano"
     #description: ""
-    price: "$ 65.00"
+    price: "$ 70.00"
 
 pricing6:
   enable: true
@@ -287,57 +319,89 @@ pricing6:
     #description: ""
     price: "$ 20.00"
 
+  - title: "Chocolate Caliente"
+    #description: ""
+    price: "$ 25.00"
+
 pricing7:
   enable: true
   subtitle: "Extras para Frappes & Smoothies"
-  pricing_item:
-  - title: "Nuez"
+  pricing_item:  
+  - title: "Perlas explosivas frutas de Yogurt"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
   - title: "Perlas explosivas frutas de la pasión"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Perlas explosivas mango"
+  - title: "Perlas explosivas de Mango"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Perlas explosivas fresa"
+  - title: "Perlas explosivas de Fresa"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Perlas explosivas blueberry"
+  - title: "Perlas explosivas de Blueberry"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Perlas explosivas chocolate"
+  - title: "Perlas explosivas de Chocolate"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Perlas explosivas de rainbow"
+  - title: "Perlas explosivas de Rainbow"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Jelly de fresa"
+  - title: "Jelly de Fresa"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Jelly de café"
+  - title: "Jelly de Café"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
-  - title: "Jelly de mango"
+  - title: "Jelly de Mango"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
+
+  - title: "Jelly de Sabores"
+    #description: ""
+    price: "$ 15.00"
 
   - title: "x1 Extra Tapioca"
     #description: ""
-    price: "$ 10.00"
+    price: "$ 15.00"
 
   - title: "x2 Extra Tapioca"
     #description: ""
-    price: "$ 20.00"
+    price: "$ 30.00"
+
+  - title: "Nuez"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "M&M's extra"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "Crema chantilly de Fresa"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "Crema chantilly de Chocolate"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "Miguelito"
+    #description: ""
+    price: "$ 15.00"
+
+  - title: "Chamoy"
+    #description: ""
+    price: "$ 15.00"
 
 pricing8:
   enable: true
